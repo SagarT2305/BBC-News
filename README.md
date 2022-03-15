@@ -1,4 +1,4 @@
-# BBC-Stocks-Forecasting-using-LSTM
+# BBC-News
 
 Problem Statement: The following dataset has news related to categories such as bussiness, tech, polotics, sport, entertainment,. Build a Machine Learning model to find out the category of the news article.
 
